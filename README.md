@@ -34,8 +34,8 @@
 
 2. **Підключення віддаленого сховища:**
    ```bash
-   git remote add origin https://github.com/kirilprymenko/GitPracticeApp.git
-   git remote add upstream https://github.com/kirilprymenko/GitPracticeApp.git
+   git remote add origin https://github.com/kirilprimenko47-lang/GitPracticeApp.git
+   git remote add upstream https://github.com/kirilprimenko47-lang/GitPracticeApp.git
    ```
 
 3. **Створення гілки та робота з нею:**
